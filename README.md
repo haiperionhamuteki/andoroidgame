@@ -2,6 +2,7 @@
 
 ![タイトル画面](docs/images/タイトル.jpg)
 ![ゲーム画面](docs/images/ゲーム画面.jpg)
+![源次](docs/genji.mp4)
 
 # ゲームの概要<br>
 障害物を越えてゴールまで目指してください
