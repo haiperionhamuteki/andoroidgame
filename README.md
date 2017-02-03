@@ -1,7 +1,7 @@
 # andoroidgame
 
-![タイトル画面](images/タイトル.jpg)
-![ゲーム画面](images/ゲーム画面.jpg)
+![タイトル画面](docs/images/タイトル.jpg)
+![ゲーム画面](docs/images/ゲーム画面.jpg)
 
 # ゲームの概要<br>
 障害物を越えてゴールまで目指してください
